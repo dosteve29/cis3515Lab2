@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SignUpForm</string>
+    <string name="userName">Name</string>
+    <string name="userEmail">Email</string>
+    <string name="userPassword">Password</string>
+    <string name="userPasswordConfirmation">Password Confirmation</string>
+    <string name="buttonSave">Save</string>
+</resources>
